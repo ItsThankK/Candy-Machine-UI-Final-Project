@@ -1,0 +1,20 @@
+{
+  "name": "spl-node",
+  "version": "1.0.0",
+  "description": "Contains SPL token code",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "spl-token",
+    "solana"
+  ],
+  "author": "gyanlakshmi@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "@solana/spl-token": "^0.2.0",
+    "@solana/web3.js": "^1.47.3"
+  }
+}
